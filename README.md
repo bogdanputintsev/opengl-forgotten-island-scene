@@ -9,7 +9,7 @@ The scene contains:
 4. dynamic sky
 5. three types of lighting: point, directional, and spot
 
-## Controls:
+## CONTROLS:
 * *Arrow keys* - free camera movement
 * *Q* - downward movement
 * *E* - move up
@@ -27,6 +27,7 @@ The scene contains:
 * Candle: "LP torch / magic wand with emission" (https://skfb.ly/6YJMZ) by Dawid is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 * Chest: "Treasure chest and decorative" (https://skfb.ly/6TMyr) by Rene_Azula is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+## PREVIEW 
 ![Preview 1](/data/thumbnail_01.png)
 ![Preview 2](/data/thumbnail_02.png)
 ![Preview 3](/data/thumbnail_03.png)
