@@ -10,7 +10,7 @@ The scene contains:
 5. three types of lighting: point, directional, and spot
 
 ## Controls:
-* Arrow keys - free camera movement
+* *Arrow keys* - free camera movement
 * *Q* - downward movement
 * *E* - move up
 * *F* - flashlight on/off
