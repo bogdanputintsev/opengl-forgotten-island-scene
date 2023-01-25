@@ -1,5 +1,24 @@
-# opengl-forgotten-island-scene
-OpenGL - Forgotten island scene
+# OpenGL - Forgotten island scene
+
+The project contains an interactive 3D scene, which was created using the OpenGL graphics engine. The project is written in C++.
+
+The scene contains:
+1. camera animation 
+2. player movement 
+3. interactive objects with animation
+4. dynamic sky
+5. three types of lighting: point, directional, and spot
+
+## Controls:
+Arrow keys - free camera movement
+Q - downward movement
+E - move up
+F - flashlight on/off
+G - turn on / off the fog
++ - start camera animation
+Z + 1 - the 1st static position
+Z + 2 - the 2nd static position
+Z + 3 - the 3rd static position
 
 
 ## CREDENTIALS
